@@ -8,3 +8,6 @@ Version 1 (Last updated 2025-05-01)
  - ESP32 Wi-Fi board
  - 18650 Power Source
  - 3-D Printed housing
+
+# General Structure
+The device is capable of registering boards and deboards based on the direction of a subject's travel, by connected the LD-2450 sensor to the ESP board. This data is saved to a CSV file that is accessible through a locally hosted webpage.
